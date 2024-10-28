@@ -6,7 +6,9 @@ Intranets encourage communication within an organization. They let employees eas
 A database that includes all the usernames of employees who have access rights to the network is often used to maintain intranet security.
 
 #How it works?
-A secure and reliable intranet requires a web server that manages requests for data hosted on the server. The web server finds requested files and delivers them to the appropriate user.
+A secure and reliable intranet requires a web server that manages requests for data hosted on the server. 
+The web server finds requested files and delivers them to the appropriate user.
 A content management system should also be set up to control the creation, publication and management of intranet content.
-An intranet may also consist of many interlinked local area networks (LANs), as well as leased lines connecting to wide area network resources. The intranet's web server uses TCP/IP, HTTP and other internet protocols.
+An intranet may also consist of many interlinked local area networks (LANs), as well as leased lines connecting to wide area network resources. 
+The intranet's web server uses TCP/IP, HTTP and other internet protocols.
 Typically, an intranet includes connections through one or more gateway computers to the outside internet and external resources.
